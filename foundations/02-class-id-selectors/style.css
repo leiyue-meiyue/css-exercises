@@ -1,0 +1,28 @@
+/* 
+notes: 
+
+all paragraphs have a red background
+
+*/
+p{
+    background-color: #e3444480;
+}
+
+.odd-number {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2 {
+    color: rgb(18, 18, 219);
+    font-size: 36px;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: #2fe73680;
+    font-size: 24px;
+    font-weight: bold;
+}
